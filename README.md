@@ -4,3 +4,5 @@ The ADB PIN Recovery tool is designed for unlocking Android devices through a br
 Utilizing the deprecated 'locksettings verify' command, this tool attempts to determine the correct PIN. To circumvent the automatic lockout triggered after multiple incorrect attempts, the tool restarts the phone after every five attempts.
 
 While there may be faster methods for PIN recovery, the current implementation of this tool is capable of processing all possible four-digit combinations in approximately 18 hours.
+
+This tool was made to run on Windows.
